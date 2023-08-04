@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋, I'm arijit barai</h1>
 <h3 align="center">Nothing special about me 俺はただの普通の人です</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arijitbarai&label=Profile%20views&color=0e75b6&style=flat" alt="arijitbarai" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arijitbarai" alt="arijitbarai" /></a> </p>
-
 - 🔭 I’m currently working on **Intrusion detection system**
 
 - 🌱 I’m currently learning **database management system**
